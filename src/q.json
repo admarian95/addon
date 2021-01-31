@@ -1,0 +1,29 @@
+{
+    "posts":[
+        {
+            "imgSrc":"https://images.pexels.com/photos/2486168/pexels-photo-2486168.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "postHeading":"Post title",
+            "postDescription":"Dummy Text123"
+        },
+        [{
+            "imgSrc":"https://static.toiimg.com/photo/72975551.cms",
+            "postHeading":"Post title 2",
+            "postDescription":"Dummy Text123"
+        },
+        {
+            "imgSrc":"https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg",
+            "postHeading":"Post title 3",
+            "postDescription":"Dummy Text123"
+        },
+        {
+            "imgSrc":"https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg",
+            "postHeading":"Post title 4",
+            "postDescription":"Dummy Text123"
+        },
+        {
+            "imgSrc": "https://images.pexels.com/photos/2486168/pexels-photo-2486168.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "postHeading":"Post title 5",
+            "postDescription":"Dummy Text123"
+        }]
+    ]
+}

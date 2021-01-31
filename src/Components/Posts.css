@@ -1,0 +1,10 @@
+.card {
+    width: 18rem ;
+    height: 30rem;
+    float: left;
+    margin: 1rem 2rem;
+}
+
+.card-img-top {
+    height: 50%
+}
